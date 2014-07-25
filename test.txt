@@ -1,10 +1,7 @@
 This file is to test the branch of git.
-<<<<<<< Updated upstream
 This is readme file add by jtr@BNU
 add this line by jtr.
 add this line by wj.
 new line add in master branch.
 This is readme file add by jtr@BNU
-=======
->>>>>>> Stashed changes
 A new line of the file.
