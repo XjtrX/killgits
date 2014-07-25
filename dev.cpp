@@ -2,7 +2,7 @@
 #define DEV_H
 #include <iostream>
 using namespace std;
-class ListNode{
+struct ListNode{
 int val;
 ListNode * next;
 ListNode(int t):val(t){
