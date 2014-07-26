@@ -1,4 +1,5 @@
 
 This file is a flag.
 This file is a flag.
+This a new line.
 This file is a flag.
